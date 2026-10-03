@@ -1,0 +1,6 @@
+{
+  "constraints": [
+    { "modulus": "6", "remainder": "4", "label": "x 除以 6 余 4" },
+    { "modulus": "8", "remainder": "6", "label": "x 除以 8 余 6" }
+  ]
+}

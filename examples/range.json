@@ -1,0 +1,8 @@
+{
+  "constraints": [
+    { "modulus": "6", "remainder": "4" },
+    { "modulus": "8", "remainder": "6" }
+  ],
+  "lower": "0",
+  "upper": "100"
+}
